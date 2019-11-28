@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <dataBase>
     <users>
-    <user><name>hui</name><email>hui@mail.ru</email><login>hui</login><password>c4ca4238a0b923820dcc509a6f75849b</password><token>5ddf9d1ec9756</token></user></users>
+    <user><name>name</name><email>mymail@mail.ru</email><login>myname</login><password>c4ca4238a0b923820dcc509a6f75849b</password><token>5ddf9d1ec9756</token></user></users>
 </dataBase>
